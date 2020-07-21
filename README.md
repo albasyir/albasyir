@@ -1,20 +1,8 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-- 🌱 I’m currently learning ...
-
-- 👯 I’m looking to collaborate on ...
-
-- 🤔 I’m looking for help with ...
-
-- 💬 Ask me about ...
-
-- 📫 How to reach me: ...
-
-- 😄 Pronouns: ...
-
-- ⚡ Fun fact: ...
+i’m Software Engineer using PHP, JavaScript and MySQL for
+programming language, I already know about laravel asitecture
+concepts from request, middleware, controller, model, seeder, mix
+compiler, and migration. I already know about Vue asitecture concepts
+from Vue Router, Vuex, Request API. I already know about MySQL how
+to make query run faster.
