@@ -15,5 +15,6 @@ compiler, and migration and then i already <b>know about Vue asitecture concepts
 like Vue Components, Vue Router, Vuex, Request API and then I already <b>know about 
 make good peformance on MySQL</b>.
 
-- Think simple, but not simpler and keep deep learning.
-- i'm not the best, but i'll do my best!
+- Think simple, but not simpler.
+- i'm not the best, but i'll do my best.
+- keep deep learning.
