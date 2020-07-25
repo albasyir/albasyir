@@ -2,7 +2,7 @@
 <img width='100%' src="https://github-readme-stats.vercel.app/api?username=albasyir&show_icons=true&theme=merko&hide_title=true&hide=stars,prs" />
 -->
 
-<img align='right' width='330px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=albasyir&hide=html&theme=merko" />
+<img align='right' style='margin-top: 10px' width='330px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=albasyir&hide=html&theme=merko" />
 
 # About Me and My Stack
 
