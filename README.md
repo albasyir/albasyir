@@ -17,4 +17,4 @@ make good peformance on MySQL</b>.
 
 - Think simple, but not simpler.
 - i'm not the best, but i'll do my best.
-- keep deep learning.
+- keep learning.
