@@ -4,8 +4,7 @@
 
 <img align='right' width='330px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=albasyir&hide=html&theme=merko" />
 
-\-
-# About Me and My Stack
+<h1>About Me and My Stack</h1>
 
 i’m Software Engineer <b>using PHP, javaScript and TypeScript</b> for
 programming language and <b>MySQL</b> for Database with love, I already <b>know about 
