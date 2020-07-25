@@ -3,7 +3,7 @@
 -->
 
 <a href="#/hahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaha">
-<img align='right' width='330px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=albasyir&hide=html&theme=merko" />  
+  <img align='right' width='330px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=albasyir&hide=html&theme=merko" />  
 </a>
 
 # About Me and My Stack
@@ -15,4 +15,4 @@ compiler, and migration and then i already <b>know about Vue asitecture concepts
 like Vue Components, Vue Router, Vuex, Request API and then I already <b>know about 
 make good peformance on MySQL</b>.
 
-Simple man and keep deep learning.
+Think simple, but not simpler and keep deep learning.
