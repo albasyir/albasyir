@@ -7,12 +7,12 @@ compiler, and migration and then i already know about Vue asitecture concepts
 from Vue Router, Vuex, Request API and then I already know about MySQL how
 to make query run faster.
 
-<table>
+<table width='100%'>
 <tr>
-  <td>
-    <img align="left" src=" https://github-readme-stats.vercel.app/api?username=albasyir&show_icons=true&theme=merko" />
+  <td style='text-align: center'>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=albasyir&show_icons=true&theme=merko" />
   </td>
-  <td>
+  <td style='text-align: center'>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albasyir&hide=html&theme=merko" />
   </td>
 </tr>
