@@ -1,4 +1,4 @@
-<img align='right' height='300px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=albasyir&hide=html&theme=merko" />
+<img align='right' width='300px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=albasyir&hide=html&theme=merko" />
 
 ### About Me and My Stack
 
@@ -14,7 +14,7 @@ make good peformance on MySQL.
 <br />
 <br />
 
-<img align="left" height='300px' src="https://github-readme-stats.vercel.app/api?username=albasyir&show_icons=true&theme=merko" />
+<img align="left" width='300px' src="https://github-readme-stats.vercel.app/api?username=albasyir&show_icons=true&theme=merko" />
 
 ### Experience
 i’m Software Engineer using PHP, javaScrip and TypeScript for
