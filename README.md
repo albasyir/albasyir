@@ -13,8 +13,3 @@ make good peformance on MySQL</b>.
 
 <br />
 <br />
-<br />
-<br />
-
-### Experience
-I ll update soon...
