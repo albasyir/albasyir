@@ -13,7 +13,6 @@ make good peformance on MySQL
 
 <br />
 <br />
-<br />
 
 <img align='right' height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=albasyir&hide=html&theme=merko" />
 
