@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div>
-  <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=albasyir&hide=html&theme=merko" />
+  <img align='right' height='300px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=albasyir&hide=html&theme=merko" />
   i’m Software Engineer using PHP, JavaScript and MySQL for
   programming language, I already know about laravel asitecture
   concepts from request, middleware, controller, model, seeder, mix
