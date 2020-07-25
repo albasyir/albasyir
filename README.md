@@ -1,6 +1,7 @@
-<img align='right' height='220px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=albasyir&hide=html&theme=merko" />
-
 ### About Me and My Stack
+
+<img align='right' height='250px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=albasyir&hide=html&theme=merko" />
+
 i’m Software Engineer using PHP, javaScrip and TypeScript for
 programming language and MySQL for Database with love, I already know about 
 laravel asitecture concepts from request, middleware, controller, model, seeder, mix
