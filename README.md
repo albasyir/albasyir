@@ -10,6 +10,9 @@ compiler, and migration and then i already know about Vue asitecture concepts
 like Vue Components, Vue Router, Vuex, Request API and then I already know about 
 make good peformance on MySQL
 
+<br />
+<br />
+<br />
 
 <img align="left" width="350px" src="https://github-readme-stats.vercel.app/api?username=albasyir&show_icons=true&theme=merko" />
 
