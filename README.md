@@ -10,6 +10,10 @@
   to make query run faster.
 </div>
 
+<br />
+<br />
+<br />
+
 <div>
   <center>
      <img align="left" src="https://github-readme-stats.vercel.app/api?username=albasyir&show_icons=true&theme=merko" />
