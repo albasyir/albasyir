@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-<img align='right' height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=albasyir&hide=html&theme=merko" />
+<img align="left" width="350px" src="https://github-readme-stats.vercel.app/api?username=albasyir&show_icons=true&theme=merko" />
 
 i’m Software Engineer using PHP, javaScrip and TypeScript for
 programming language and MySQL for Database with love, I already know about 
@@ -14,7 +14,7 @@ make good peformance on MySQL
 <br />
 <br />
 
-<img align="left" width="350px" src="https://github-readme-stats.vercel.app/api?username=albasyir&show_icons=true&theme=merko" />
+<img align='right' height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=albasyir&hide=html&theme=merko" />
 
 i’m Software Engineer using PHP, javaScrip and TypeScript for
 programming language and MySQL for Database with love, I already know about 
