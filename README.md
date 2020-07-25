@@ -1,4 +1,4 @@
-<img align='right' height='280px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=albasyir&hide=html&theme=merko" />
+<img align='right' height='300px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=albasyir&hide=html&theme=merko" />
 
 ### About Me and My Stack
 
