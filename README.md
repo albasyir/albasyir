@@ -8,7 +8,7 @@
 
 # About Me and My Stack
 
-i’m Software Engineer <b>using PHP, javaScript and TypeScript</b> for
+i’m Software Engineer <b>using PHP, JavaScript and TypeScript</b> for
 programming language and <b>MySQL</b> for Database with love, I already <b>know about 
 Laravel asitecture concepts</b> like request, middleware, controller, model, seeder, mix
 compiler, and migration and then i already <b>know about Vue asitecture concepts</b>
