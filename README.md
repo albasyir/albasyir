@@ -1,7 +1,7 @@
 <!--
 <img width='100%' src="https://github-readme-stats.vercel.app/api?username=albasyir&show_icons=true&theme=merko&hide_title=true&hide=stars,prs" />
 -->
-<div align='right'>
+<div align='right' style='float: right'>
 <img  width='330px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=albasyir&hide=html&theme=merko" />
 </div>
 
