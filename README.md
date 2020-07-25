@@ -13,5 +13,4 @@ compiler, and migration and then i already <b>know about Vue asitecture concepts
 like Vue Components, Vue Router, Vuex, Request API and then I already <b>know about 
 make good peformance on MySQL</b>.
 
-<br />
-<br />
+Simple man and keep deep learning.
