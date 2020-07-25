@@ -4,12 +4,12 @@
 
 ### About Me and My Stack
 
-i’m Software Engineer using PHP, javaScrip and TypeScript for
-programming language and MySQL for Database with love, I already know about 
-laravel asitecture concepts from request, middleware, controller, model, seeder, mix
-compiler, and migration and then i already know about Vue asitecture concepts
-like Vue Components, Vue Router, Vuex, Request API and then I already know about 
-make good peformance on MySQL.
+i’m Software Engineer <b>using PHP, javaScript and TypeScript</b> for
+programming language and <b>MySQL</b> for Database with love, I already <b>know about 
+Laravel asitecture concepts</b> like request, middleware, controller, model, seeder, mix
+compiler, and migration and then i already <b>know about Vue asitecture concepts</b>
+like Vue Components, Vue Router, Vuex, Request API and then I already <b>know about 
+make good peformance on MySQL</b>.
 
 <br />
 <br />
@@ -17,9 +17,4 @@ make good peformance on MySQL.
 <br />
 
 ### Experience
-i’m Software Engineer using PHP, javaScrip and TypeScript for
-programming language and MySQL for Database with love, I already know about 
-laravel asitecture concepts from request, middleware, controller, model, seeder, mix
-compiler, and migration and then i already know about Vue asitecture concepts
-like Vue Components, Vue Router, Vuex, Request API and then I already know about 
-make good peformance on MySQL.
+I ll update soon...
