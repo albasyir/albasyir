@@ -1,7 +1,7 @@
 
 
 
-<img align="left" width="350px" src="https://github-readme-stats.vercel.app/api?username=albasyir&show_icons=true&theme=merko" />
+<img align="left" width="25%" src="https://github-readme-stats.vercel.app/api?username=albasyir&show_icons=true&theme=merko" />
 
 ### My Stack
 i’m Software Engineer using PHP, javaScrip and TypeScript for
