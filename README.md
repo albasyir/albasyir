@@ -11,7 +11,7 @@ like Vue Components, Vue Router, Vuex, Request API and then I already know about
 make good peformance on MySQL
 
 
-<img align="left" width="300px" src="https://github-readme-stats.vercel.app/api?username=albasyir&show_icons=true&theme=merko" />
+<img align="left" width="350px" src="https://github-readme-stats.vercel.app/api?username=albasyir&show_icons=true&theme=merko" />
 
 i’m Software Engineer using PHP, javaScrip and TypeScript for
 programming language and MySQL for Database with love, I already know about 
