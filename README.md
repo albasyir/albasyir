@@ -3,7 +3,7 @@
 -->
 
 <a href="#/hahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaha">
-  <img align='right' width='330px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=albasyir&hide=html&theme=merko" />  
+  <img align='right' width='330px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=albasyir&hide=html,js&theme=merko" />  
 </a>
 
 # About Me and My Stack
