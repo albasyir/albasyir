@@ -16,5 +16,4 @@ like Vue Components, Vue Router, Vuex, Request API and then I already <b>know ab
 make good peformance on MySQL</b>.
 
 - Think simple, but not simpler.
-- i'm not the best, but i'll do my best.
 - keep learning.
