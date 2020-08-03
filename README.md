@@ -18,3 +18,5 @@ make good peformance on MySQL</b>.
 ## My Fact
 - Think simple, but not simpler.
 - keep learning.
+
+<a href='#/documents/resume.pdf'>Download my resume</a>
