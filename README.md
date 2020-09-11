@@ -14,9 +14,9 @@ compiler, migration and modern monolith javascript for vuejs and then i already
 Request API and then I already <b>know about make good peformance on MySQL</b> 
 useful for big data.
 
+<a href='#/documents/resume.pdf'>Download my resume</a>
+
 ## My Fact
 - Think simple, but not simpler.
 - Focus
 - keep learning.
-
-<a href='#/documents/resume.pdf'>Download my resume</a>
