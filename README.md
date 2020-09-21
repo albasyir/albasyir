@@ -12,7 +12,7 @@ Laravel asitecture concepts</b> like request, middleware, controller, model, job
 compiler, migration and modern monolith javascript for vuejs and then i already 
 <b>know about Vue asitecture concepts</b> like Vue Components, Vue Router, Vuex, 
 Request API and then I already <b>know about make good peformance on MySQL</b> 
-useful for big data.
+usefully for big data.
 
 <a href='https://s3-ap-southeast-1.amazonaws.com/glints-dashboard/resume/dcc987928240477aa4431e1c26d0ff6a.pdf' target='_blank'>Download my resume</a>
 
