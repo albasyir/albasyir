@@ -6,13 +6,7 @@
 
 # About Me and My Stack
 
-i’m Software Engineer <b>using PHP, JavaScript and TypeScript</b> for
-programming language and <b>MySQL</b> for Database with love, I already <b>know about 
-Laravel asitecture concepts</b> like request, middleware, controller, model, jobs, seeder, mix
-compiler, migration and modern monolith javascript for vuejs and then i already 
-<b>know about Vue asitecture concepts</b> like Vue Components, Vue Router, Vuex, 
-Request API and then I already <b>know about make good peformance on MySQL</b> 
-usefully for big data.
+I'm Software Engineer using <strong>PHP, JavaScript and SQL</strong> as programming language, I already know about Laravel asitecture concepts from request, middleware, controller, model, seeder, mix compiler, notification push, Laravel forge and migration. I already know about Vue asitecture concepts from Vue router, Vuex, Request API. I already know about SQL and also how to make MySQL query run faster.
 
 <a href='https://s3-ap-southeast-1.amazonaws.com/glints-dashboard/resume/ada8376896cde84a3be5473fe499e4b1.pdf' target='_blank'>Download my resume</a>
 
