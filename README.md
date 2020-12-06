@@ -13,4 +13,4 @@ I'm Software Engineer using <strong>PHP, JavaScript and SQL</strong> as programm
 ## My Fact
 - Think simple, but not simpler.
 - Focus
-- keep learning.
+- Keep Learning.
