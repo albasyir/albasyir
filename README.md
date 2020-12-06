@@ -8,7 +8,7 @@
 
 I'm Software Engineer using <strong>PHP, JavaScript and SQL</strong> as programming language, I already know about Laravel asitecture concepts from request, middleware, controller, model, seeder, mix compiler, notification push, Laravel forge and migration. I already know about Vue asitecture concepts from Vue router, Vuex, Request API. I already know about SQL and also how to make MySQL query run faster.
 
-<a href='https://s3-ap-southeast-1.amazonaws.com/glints-dashboard/resume/ada8376896cde84a3be5473fe499e4b1.pdf' target='_blank'>Download CV for more detail</a>
+<a class='btn d-none d-md-inline-block' href='https://s3-ap-southeast-1.amazonaws.com/glints-dashboard/resume/ada8376896cde84a3be5473fe499e4b1.pdf' target='_blank'>Download my CV for more detail</a>
 
 ## My Fact
 - Think simple, but not simpler.
