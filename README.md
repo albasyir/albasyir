@@ -11,6 +11,6 @@ I'm a Software Engineer with experience in Laravel (PHP), Vue.js (JavaScript) an
 <a class='btn d-none d-md-inline-block' href='https://s3-ap-southeast-1.amazonaws.com/glints-dashboard/resume/753fd75e738795836256918401ce8ae1.pdf' target='_blank'>Download my CV for more detail</a>
 
 ## My Fact
-- Think simple, but not simpler.
+- Think simple, but not simpler
 - Focus
-- Keep Learning.
+- Keep Learning
