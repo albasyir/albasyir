@@ -6,7 +6,7 @@
 
 # About Me and My Stack
 
-I'm Software Engineer using <strong>PHP, JavaScript and SQL</strong> as programming language, I already know about Laravel asitecture concepts from request, middleware, controller, model, seeder, mix compiler, notification push, Laravel forge and migration. I already know about Vue asitecture concepts from Vue router, Vuex, Request API. I already know about SQL and also how to make MySQL query run faster.
+I'm a Software Engineer with experience in Laravel (PHP), Vue.js (JavaScript) and MySQL. I have a good understanding of software architecture concepts, my time working on various projects has rewarded me the opportunity to work on different cools features. I love coding and I am desperate for opportunities to learn more exciting technologies.
 
 <a class='btn d-none d-md-inline-block' href='https://s3-ap-southeast-1.amazonaws.com/glints-dashboard/resume/753fd75e738795836256918401ce8ae1.pdf' target='_blank'>Download my CV for more detail</a>
 
