@@ -7,6 +7,4 @@ I'm a Software Engineer with experience in Laravel (PHP), Vue.js (JavaScript) an
 </a> for detail
 
 
-<center>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=albasyir"></img>  
-</center>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albasyir"></img>
