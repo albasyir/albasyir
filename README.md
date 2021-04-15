@@ -6,7 +6,6 @@ I'm a Software Engineer with experience in Laravel (PHP), Vue.js (JavaScript) an
   Download my International CV
 </a> for detail
 
-## Fact
-- Think simple, but not simpler
-- Focus
-- Keep Learning
+<center>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=albasyir"></img>  
+</center>
