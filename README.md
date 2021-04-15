@@ -6,5 +6,7 @@ I'm a Software Engineer with experience in Laravel (PHP), Vue.js (JavaScript) an
   Download my International CV
 </a> for detail
 
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albasyir"></img>
+</p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albasyir"></img>
