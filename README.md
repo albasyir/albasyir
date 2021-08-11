@@ -4,7 +4,7 @@ I'm a Software Engineer with experience in Laravel (PHP), Vue.js (JavaScript) an
 
 <p>
   <a href='https://s3-ap-southeast-1.amazonaws.com/glints-dashboard/resume/2944635a9c733cd15197241faff5b51d.pdf' target='_blank'>
-    Download my International CV
+    Download my International CV ( Not Update Yet )
   </a> for detail
 </p>
 
