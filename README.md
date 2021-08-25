@@ -1,6 +1,6 @@
-# About Me and My Stack
+# About Me
 
-I'm a Software Engineer with experience in Laravel (PHP), Vue.js (JavaScript) and MySQL. I have a good understanding of software architecture concepts, my time working on various projects has rewarded me the opportunity to work on different cools features. I love coding and I am desperate for opportunities to learn more exciting technologies.
+I'm a Software Engineer. I have a good understanding of software architecture concepts, my time working on various projects has rewarded me the opportunity to work on different cools features. I love coding and I am desperate for opportunities to learn more exciting technologies.
 
 <p>
   <a href='https://s3-ap-southeast-1.amazonaws.com/glints-dashboard/resume/2944635a9c733cd15197241faff5b51d.pdf' target='_blank'>
