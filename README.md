@@ -3,7 +3,7 @@
 I'm a Software Engineer. I have a good understanding of software architecture concepts, my time working on various projects has rewarded me the opportunity to work on different cools features. I love coding and I am desperate for opportunities to learn more exciting technologies.
 
 <p>
-  <a href='https://s3-ap-southeast-1.amazonaws.com/glints-dashboard/resume/fe60b4dc912b34080c2a70eb57f277e2.pdf' target='_blank'>
+  <a href='https://s3-ap-southeast-1.amazonaws.com/glints-dashboard/resume/1342efcdc935452b821d648779984042.pdf' target='_blank'>
     Download my International CV
   </a> for detail
 </p>
