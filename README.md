@@ -6,7 +6,7 @@
 
 # Hello <img height='30' src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
 
-<img width='550' align="right" src="https://github-readme-streak-stats.herokuapp.com?user=albasyir&theme=vue&hide_border=true"></img>
+<img width='450' align="right" src="https://github-readme-streak-stats.herokuapp.com?user=albasyir&theme=vue&hide_border=true"></img>
 
 **I'm a** (complex or simple) **problem solver** (in software engineering and development) that i **always pick possible, fast, and safe solutions**
 
