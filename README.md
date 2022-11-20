@@ -1,7 +1,7 @@
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=albasyir&theme=vue&hide_border=true"></img>
+<img height='170' align="right" src="https://github-readme-streak-stats.herokuapp.com?user=albasyir&theme=vue&hide_border=true"></img>
 
-# Hi there <img width='20' src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
+# Hi there <img height='30' src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
 
 <p>
   simply, to know me more, you can
