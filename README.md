@@ -1,18 +1,22 @@
+[linkedin_button]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
+[linkendin_url]: https://www.linkedin.com/in/albasyir/ "Linked In"
 
-<img height='170' align="right" src="https://github-readme-streak-stats.herokuapp.com?user=albasyir&theme=vue&hide_border=true"></img>
+[stackoverflow_button]: https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
+[stackoverflow_url]: https://stackoverflow.com/users/8314878/abdul-aziz-al-basyir "Stackoverflow"
 
-# Hi there <img height='30' src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
+# Hello <img height='30' src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
 
-<p>
-  simply, to know me more, you can
-  <a href='https://www.linkedin.com/in/albasyir/' target='_blank'>
-    visit my Linkedin
-  </a>
-  or
-  <a href='https://s3-ap-southeast-1.amazonaws.com/glints-dashboard/resume/46af71faae9c41cfea79c9a108708ee8.pdf' target='_blank'>
-    download my International CV
-  </a>
-  if you need
-</p>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=albasyir&theme=vue&hide_border=true"></img>
 
-![](https://visitor-badge.glitch.me/badge?page_id=albasyir.albasyir)
+**I'm a** (complex or simple) **problem solver** (in software engineering and development) that i **always pick possible, fast, and safe solutions**
+
+to know me more, see : 
+
+[![linkedin_button]][linkendin_url]
+[![stackoverflow_button]][stackoverflow_url]
+
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=albasyir%2Falbasyir&labelColor=%23697689&countColor=%23dce775)](https://visitorbadge.io/status?path=albasyir%2Falbasyir)
+
+
+
