@@ -8,7 +8,7 @@
 
 <img width='450' align="right" src="https://github-readme-streak-stats.herokuapp.com?user=albasyir&theme=vue&hide_border=true"></img>
 
-nice to meet you 🤝, **I'm a** (complex or simple) **problem solver** (in software engineering and development) that i **always pick possible, fast, and safe solutions**
+nice to meet you 🤝, **I'm a** (complex or simple) **problem solver** (in software engineering and development) that **try to pick possible, fast, and safe solutions**
 
 [![linkedin_button]][linkendin_url]
 
