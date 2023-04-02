@@ -4,7 +4,7 @@
 [stackoverflow_button]: https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
 [stackoverflow_url]: https://stackoverflow.com/users/8314878/abdul-aziz-al-basyir "Stackoverflow"
 
-# Hello, I'm Aziz <img height='30' src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
+# Hello, I'm Aziz <img width='30' hight='30' src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
 
 <img width='450' align="right" src="https://github-readme-streak-stats.herokuapp.com?user=albasyir&theme=vue&hide_border=true"></img>
 
