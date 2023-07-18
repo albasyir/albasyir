@@ -10,8 +10,6 @@
 
 nice to meet you 🤝, **I'm a** (complex or simple) **problem solver** (in software engineering and development) that **try to pick possible, fast, and safe solutions**
 
-with love for detail and a very deep technological background, I translate customers and business needs.
-
 [![linkedin_button]][linkendin_url]
 
 [![Aziz's Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/8314878?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/8314878 "Aziz's Stack Overflow Reputation")
