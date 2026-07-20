@@ -6,7 +6,9 @@
 
 # Hello, I'm Aziz <img width='30' hight='30' src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
 
-<img width='450' align="right" src="https://nirzak-streak-stats.vercel.app?user=albasyir&theme=vue&hide_border=true"></img>
+<img width='450' align="right" src="https://streak-stats.vercel.app?user=albasyir&theme=vue&hide_border=true"></img>
+
+[![AIClub.id Builder](https://aiclub.id/badge/s00_01KWZZF0CRENMYHNVMBBESNSQK.svg?style=pill&theme=dark)](https://aiclub.id/builder/s00_01KWZZF0CRENMYHNVMBBESNSQK)
 
 nice to meet you 🤝, **I'm a** (complex or simple) **problem solver** (in software engineering and development) that **try to pick possible, fast, and safe solutions**
 
