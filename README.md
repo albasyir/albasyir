@@ -8,14 +8,15 @@
 
 <img width='450' align="right" src="https://streak-stats.vercel.app?user=albasyir&theme=vue&hide_border=true"></img>
 
-[![AIClub.id Builder](https://aiclub.id/badge/s00_01KWZZF0CRENMYHNVMBBESNSQK.svg?style=pill&theme=dark)](https://aiclub.id/builder/s00_01KWZZF0CRENMYHNVMBBESNSQK)
-
 nice to meet you 🤝, **I'm a** (complex or simple) **problem solver** (in software engineering and development) that **try to pick possible, fast, and safe solutions**
 
 [![linkedin_button]][linkendin_url]
 
 [![Aziz's Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/8314878?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/8314878 "Aziz's Stack Overflow Reputation")
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=albasyir%2Falbasyir&labelColor=%23697689&countColor=%23dce775)](https://visitorbadge.io/status?path=albasyir%2Falbasyir)
+
+
+[![AIClub.id Builder](https://aiclub.id/badge/s00_01KWZZF0CRENMYHNVMBBESNSQK.svg?style=pill&theme=dark)](https://aiclub.id/builder/s00_01KWZZF0CRENMYHNVMBBESNSQK)
 
 <br />
 
